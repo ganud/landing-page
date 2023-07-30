@@ -16,6 +16,8 @@ body {
     width: 100%;
     max-width: 200px;
     max-height: auto;
+    border: 5px solid #3b4556;
+    border-radius: 12px;
 }
 
 .portrait img {
