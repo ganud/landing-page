@@ -13,7 +13,7 @@ body {
 }
 
 .content img {
-    width: 35%;
+    width: 100%;
     max-width: 200px;
     max-height: auto;
 }
